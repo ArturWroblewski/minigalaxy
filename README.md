@@ -4,6 +4,16 @@ A simple GOG client for Linux that lets you download and play your GOG Linux gam
 
 ![screenshot](screenshot.jpg?raw=true)
 
+## Videos
+[![Watch the video](https://www.gamingonlinux.com/uploads/articles/article_media/19278487151577447893gol1.jpg)](https://youtu.be/6ey3mO1QhZ4)
+
+Next VIdio:
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/6ey3mO1QhZ4)
+
+Ascelia:
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+
 ## Features
 
 The most important features of Minigalaxy:
