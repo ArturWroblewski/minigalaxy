@@ -14,6 +14,9 @@ Next VIdio:
 Ascelia:
 [![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
 
+YOtobeGif:
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
 ## Features
 
 The most important features of Minigalaxy:
